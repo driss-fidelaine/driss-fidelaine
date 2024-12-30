@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bienvenue sur mon GitHub 👋
 
-<!--
-**driss-fidelaine/driss-fidelaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salut ! Je suis **[Driss Fidelaine]**, un passionné par la cybersécurité et les technologies informatiques. 🚀  
+Ce repository contient une présentation de mes projets, compétences et idées.
 
-Here are some ideas to get you started:
+## À propos de moi
+- 🌱 Actuellement en apprentissage en cybersécurité.
+- 💻 Intéressé par la maintenance IT, la sécurité informatique et les systèmes.
+- 🎮 Passionné par les jeux vidéo, les romans visuels, et toujours prêt à apprendre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets en cours
+
+
+## Me contacter
+- ✉️ Email : [driss.fidelaine@laplateforme.io](mailto:driss.fidelaine@laplateforme.io)
+- 🌐 LinkedIn : [Driss Fidelaine]([https://www.linkedin.com/in/votre-nom/](https://www.linkedin.com/in/driss-fidelaine-240154340/)
