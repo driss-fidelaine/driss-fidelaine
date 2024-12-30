@@ -1,6 +1,6 @@
 # Bienvenue sur mon GitHub 👋
 
-Salut ! Je suis **[Driss Fidelaine]**, un passionné par la cybersécurité et les technologies informatiques. 🚀  
+Salut ! Je suis **Driss Fidelaine**, un passionné par la cybersécurité et les technologies informatiques. 🚀  
 Ce repository contient une présentation de mes projets, compétences et idées.
 
 ## À propos de moi
@@ -13,4 +13,4 @@ Ce repository contient une présentation de mes projets, compétences et idées.
 
 ## Me contacter
 - ✉️ Email : [driss.fidelaine@laplateforme.io](mailto:driss.fidelaine@laplateforme.io)
-- 🌐 LinkedIn : [Driss Fidelaine] ([https://www.linkedin.com/in/Driss Fidelaine/](https://www.linkedin.com/in/driss-fidelaine-240154340/)
+- 🌐 LinkedIn : Driss Fidelaine ([https://www.linkedin.com/in/Driss Fidelaine/](https://www.linkedin.com/in/driss-fidelaine-240154340/)
