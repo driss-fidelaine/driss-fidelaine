@@ -1,16 +1,11 @@
-# Bienvenue sur mon GitHub 👋
+# Driss
 
-Salut ! Je suis **Driss Fidelaine**, un passionné par la cybersécurité et les technologies informatiques. 🚀  
-Ce repository contient une présentation de mes projets, compétences et idées.
+### 🎈 Social Medias
 
-## À propos de moi
-- 🌱 Actuellement en apprentissage en cybersécurité.
-- 💻 Intéressé par la maintenance IT, la sécurité informatique et les systèmes.
-- 🎮 Passionné par les jeux vidéo, les romans visuels, et toujours prêt à apprendre.
+<a href="https://www.linkedin.com/in/driss-fidelaine-240154340//"><img height=20px src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
+<a href="https://discordapp.com/users/411599399647707149"><img height=20px src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg">
 
-## Projets en cours
-
-
-## Me contacter
-- ✉️ Email : [driss.fidelaine@laplateforme.io](mailto:driss.fidelaine@laplateforme.io)
-- 🌐 LinkedIn : Driss Fidelaine [https://www.linkedin.com/Driss Fidelaine/](https://www.linkedin.com/in/driss-fidelaine-240154340/)
+### 🪐 Skills
+<img height=20px src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg> <img height=20px src=https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg> <img height=20px src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud1.svg> <img height=20px src=https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg> <img height=20px src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg> 
+<a href="https://soundcloud.com/kubikiricycle//"> <img height=20px src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud1.svg">
+<img height=20px src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg> <img height=20px src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg>
